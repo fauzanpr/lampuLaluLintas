@@ -1,6 +1,7 @@
 # Lampu Lalu Lintas
 -------------------
 ## Technology Used
+- Visual Studio Code
 - CVAVR
 - Proteus
 
