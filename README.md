@@ -5,6 +5,9 @@
 - CVAVR
 - Proteus
 
+## Languages Used
+- C
+
 ## Devices
 - Atmega16
 - 7Segment
