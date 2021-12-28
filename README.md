@@ -5,7 +5,7 @@
 - CVAVR
 - Proteus
 
-## Languages Used
+## Language Used
 - C
 
 ## Devices
